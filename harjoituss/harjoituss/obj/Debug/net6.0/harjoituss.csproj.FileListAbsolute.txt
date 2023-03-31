@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\bin\Debug\net6.0\harjoituss.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\bin\Debug\net6.0\harjoituss.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\bin\Debug\net6.0\harjoituss.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\bin\Debug\net6.0\harjoituss.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\bin\Debug\net6.0\harjoituss.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\refint\harjoituss.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\harjoituss.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\harjoituss\harjoituss\obj\Debug\net6.0\ref\harjoituss.dll
