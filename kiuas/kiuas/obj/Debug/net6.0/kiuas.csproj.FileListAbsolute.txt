@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\bin\Debug\net6.0\kiuas.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\bin\Debug\net6.0\kiuas.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\bin\Debug\net6.0\kiuas.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\bin\Debug\net6.0\kiuas.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\bin\Debug\net6.0\kiuas.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\refint\kiuas.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\kiuas.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\kiuas\kiuas\obj\Debug\net6.0\ref\kiuas.dll
