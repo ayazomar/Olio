@@ -1,0 +1,5 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\opiskelijaa\opiskelijaa\obj\Debug\net6.0\opiskelijaa.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\opiskelijaa\opiskelijaa\obj\Debug\net6.0\opiskelijaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\opiskelijaa\opiskelijaa\obj\Debug\net6.0\opiskelijaa.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\opiskelijaa\opiskelijaa\obj\Debug\net6.0\opiskelijaa.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\opiskelijaa\opiskelijaa\obj\Debug\net6.0\opiskelijaa.csproj.CoreCompileInputs.cache

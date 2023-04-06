@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\bin\Debug\net6.0\teht2.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\bin\Debug\net6.0\teht2.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\bin\Debug\net6.0\teht2.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\bin\Debug\net6.0\teht2.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\bin\Debug\net6.0\teht2.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\refint\teht2.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\teht2.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\teht2\teht2\obj\Debug\net6.0\ref\teht2.dll
