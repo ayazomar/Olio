@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\bin\Debug\net6.0\albumi.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\bin\Debug\net6.0\albumi.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\bin\Debug\net6.0\albumi.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\bin\Debug\net6.0\albumi.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\bin\Debug\net6.0\albumi.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\refint\albumi.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\albumi.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\albumi\albumi\obj\Debug\net6.0\ref\albumi.dll
