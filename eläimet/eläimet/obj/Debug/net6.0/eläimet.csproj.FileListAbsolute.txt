@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\bin\Debug\net6.0\eläimet.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\bin\Debug\net6.0\eläimet.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\bin\Debug\net6.0\eläimet.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\bin\Debug\net6.0\eläimet.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\bin\Debug\net6.0\eläimet.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\refint\eläimet.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\eläimet.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\eläimet\eläimet\obj\Debug\net6.0\ref\eläimet.dll
