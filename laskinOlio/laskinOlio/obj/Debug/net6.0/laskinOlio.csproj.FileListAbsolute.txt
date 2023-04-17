@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\bin\Debug\net6.0\laskinOlio.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\bin\Debug\net6.0\laskinOlio.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\bin\Debug\net6.0\laskinOlio.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\bin\Debug\net6.0\laskinOlio.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\bin\Debug\net6.0\laskinOlio.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\refint\laskinOlio.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\laskinOlio.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\laskinOlio\laskinOlio\obj\Debug\net6.0\ref\laskinOlio.dll
