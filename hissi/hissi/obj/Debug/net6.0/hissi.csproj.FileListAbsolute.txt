@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\bin\Debug\net6.0\hissi.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\bin\Debug\net6.0\hissi.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\bin\Debug\net6.0\hissi.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\bin\Debug\net6.0\hissi.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\bin\Debug\net6.0\hissi.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\refint\hissi.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\hissi.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\hissi\hissi\obj\Debug\net6.0\ref\hissi.dll
