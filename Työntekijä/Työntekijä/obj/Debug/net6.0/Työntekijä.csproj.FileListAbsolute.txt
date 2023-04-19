@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\bin\Debug\net6.0\Työntekijä.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\bin\Debug\net6.0\Työntekijä.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\bin\Debug\net6.0\Työntekijä.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\bin\Debug\net6.0\Työntekijä.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\bin\Debug\net6.0\Työntekijä.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\refint\Työntekijä.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\Työntekijä.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Työntekijä\Työntekijä\obj\Debug\net6.0\ref\Työntekijä.dll
