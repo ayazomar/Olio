@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
     class Työntekijä : Henkilö
     {
         public Työntekijä(string nimi,string työpaikka,int palkka,int tunti)
