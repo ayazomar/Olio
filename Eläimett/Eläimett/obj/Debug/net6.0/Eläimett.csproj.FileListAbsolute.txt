@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\bin\Debug\net6.0\Eläimett.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\bin\Debug\net6.0\Eläimett.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\bin\Debug\net6.0\Eläimett.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\bin\Debug\net6.0\Eläimett.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\bin\Debug\net6.0\Eläimett.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\refint\Eläimett.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\Eläimett.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Eläimett\Eläimett\obj\Debug\net6.0\ref\Eläimett.dll
