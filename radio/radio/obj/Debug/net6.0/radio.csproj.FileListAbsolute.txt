@@ -1,0 +1,15 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\bin\Debug\net6.0\radio.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\bin\Debug\net6.0\radio.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\bin\Debug\net6.0\radio.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\bin\Debug\net6.0\radio.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\bin\Debug\net6.0\radio.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\refint\radio.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\radio.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\radio\radio\obj\Debug\net6.0\ref\radio.dll
