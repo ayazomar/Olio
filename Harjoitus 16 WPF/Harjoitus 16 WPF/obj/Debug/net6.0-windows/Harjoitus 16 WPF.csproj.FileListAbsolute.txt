@@ -1,0 +1,21 @@
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\bin\Debug\net6.0-windows\Harjoitus 16 WPF.exe
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\bin\Debug\net6.0-windows\Harjoitus 16 WPF.deps.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\bin\Debug\net6.0-windows\Harjoitus 16 WPF.runtimeconfig.json
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\bin\Debug\net6.0-windows\Harjoitus 16 WPF.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\bin\Debug\net6.0-windows\Harjoitus 16 WPF.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.csproj.AssemblyReference.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF_MarkupCompile.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF_MarkupCompile.lref
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.g.resources
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.AssemblyInfoInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.AssemblyInfo.cs
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.csproj.CoreCompileInputs.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\refint\Harjoitus 16 WPF.dll
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.pdb
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\Harjoitus 16 WPF.genruntimeconfig.cache
+C:\Users\ayaz.omarmohammad\source\repos\ayazomar\Olio\Harjoitus 16 WPF\Harjoitus 16 WPF\obj\Debug\net6.0-windows\ref\Harjoitus 16 WPF.dll
